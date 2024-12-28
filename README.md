@@ -1,6 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/02/87/d3/0287d3ba8b3330fca99f69e2001d3168.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm BIKASH-NEPALI</h1>
-<h3 align="center">A passionate in learning tech and exploring new things</h3>
+ <div align="center"> <img src="https://th.bing.com/th/id/R.cf931efe7ea208b1956e9b1ed90ad240?rik=4LQXLnadvIlgtw&riu=http%3a%2f%2fpm1.narvii.com%2f8274%2f2a124d162e01709544ab522d5557829fac31ddfbr1-2048-234v2_uhq.jpg&ehk=vHjWsQNDJ30eM2YkWG8d1XDoE%2bXnvq7%2bLt6WRhKSRL8%3d&risl=&pid=ImgRaw&r=0"  style="width: 100%; max-width: 400px;"> 
+
+<h3 align="center">I'm passionate in learning tech and exploring new things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikash-nepali&label=Profile%20views&color=0e75b6&style=flat" alt="bikash-nepali" /> </p>
 
